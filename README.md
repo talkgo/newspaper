@@ -1,4 +1,4 @@
-# newspaper 草案
+# newspaper 方案
 GitHub Issues 接收每一期的推荐，当点赞（ :thumbsup: ）超过 5 个时，可以在当期截止日期到了之后被发布到 talkgo.org 的强烈推荐中。
 
 ## 内容组：

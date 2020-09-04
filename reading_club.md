@@ -79,5 +79,5 @@ TalkGo 读书会退还保证金给各小组组长，再由组长根据实际情�
 talkgo/night#676
 
 ## 读书笔记
-社区读书笔记方案详情: https://github.com/talkgo/newspaper/blob/master/readingnotes.md
-读书会第一期总结:https://talkgo.org/t/topic/628
+1. 社区读书笔记方案详情: https://github.com/talkgo/newspaper/blob/master/readingnotes.md
+2. 读书会第一期总结:https://talkgo.org/t/topic/628
